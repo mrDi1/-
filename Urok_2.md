@@ -170,7 +170,6 @@ If you are sure you want to delete it, run 'git branch -D testing'.
 git branch -d <название ветки>
 ```
 
-
 ----------------------------------------------------------------------
 
 
